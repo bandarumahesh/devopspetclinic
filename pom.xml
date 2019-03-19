@@ -7,11 +7,10 @@
     <version>4.2</version>
   <name>spring-petclinic-4.2</name>
     <packaging>war</packaging>
-	
-<distributionManagement>
+   <distributionManagement>
   <repository>
-    <id>Test</id>
-    <url>http://localhost:8081/nexus/content/repositories/Test</url>
+    <id>Ecomm</id>
+    <url>http://localhost:8081/nexus/content/repositories/Ecomm</url>
   </repository>
 </distributionManagement>
 
